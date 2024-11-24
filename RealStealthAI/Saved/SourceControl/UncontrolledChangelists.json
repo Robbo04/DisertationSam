@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/SJR/DisertationSam/RealStealthAI/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/SJR/DisertationSam/RealStealthAI/Content/MCO_Mocap_Basics/Overview.umap",
 				"C:/Users/Public/Documents/DisertationSam/RealStealthAI/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/Public/Documents/DisertationSam/RealStealthAI/Content/Player/BP_Player.uasset",
 				"C:/Users/Public/Documents/DisertationSam/RealStealthAI/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
