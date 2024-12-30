@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/AI/BT_NPC_Base.uasset",
+				"E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/0V/T79EM4TK4KMHULFJ90XS6V.uasset",
 				"D:/SJR/DisertationSam/RealStealthAI/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/SJR/DisertationSam/RealStealthAI/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"D:/SJR/DisertationSam/RealStealthAI/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset",
