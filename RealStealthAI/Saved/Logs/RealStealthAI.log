@@ -4981,3 +4981,134 @@ Script Stack (0 frames) :
 [2025.01.03-19.51.52:583][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 3.12 sec)
 [2025.01.03-19.51.52:584][130]AssetCheck: New page: Asset Save: TestCubeMap
 [2025.01.03-19.51.52:584][130]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/TestCubeMap.TestCubeMap
+[2025.01.03-20.01.53:201][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.01.03-20.01.53:205][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/TestCubeMap' took 0.017
+[2025.01.03-20.01.53:205][145]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Tasks/BTT_MoveAlongPatrolRoute] ([2] browsable assets)...
+[2025.01.03-20.01.53:206][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Tasks/BTT_MoveAlongPatrolRoute]
+[2025.01.03-20.01.53:209][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/Tasks/BTT_MoveAlongPatrolRoute_Auto5
+[2025.01.03-20.01.53:209][145]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BTT_MoveAlongPatrolRoute_Auto557B0501B486872DEE5194BA55F29372A.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/Tasks/BTT_MoveAlongPatrolRoute_Auto5.uasset'
+[2025.01.03-20.01.53:209][145]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.01.03-20.14.08:766][315]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/NPC/Enums/E_AIState.E_AIState
+[2025.01.03-20.14.12:586][762]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2025.01.03-20.14.31:716][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.03-20.14.31:758][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Enums/E_AIState" FILE="E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/Enums/E_AIState.uasset" SILENT=true
+[2025.01.03-20.14.31:758][ 36]LogSavePackage: Moving output files for package: /Game/NPC/Enums/E_AIState
+[2025.01.03-20.14.31:759][ 36]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/E_AIStateF8F35B894D067EAEC40E49937483F4AA.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/Enums/E_AIState.uasset'
+[2025.01.03-20.14.31:776][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 3.18 sec)
+[2025.01.03-20.14.31:777][ 36]AssetCheck: New page: Asset Save: E_AIState
+[2025.01.03-20.14.31:777][ 36]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/NPC/Enums/E_AIState.E_AIState
+[2025.01.03-20.15.02:680][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.01.03-20.15.02:687][670]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/TestCubeMap' took 0.021
+[2025.01.03-20.15.02:687][670]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/AI/AIC_NPC_Base] ([2] browsable assets)...
+[2025.01.03-20.15.02:687][670]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/AI/AIC_NPC_Base]
+[2025.01.03-20.15.02:687][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/AI/AIC_NPC_Base" FILE="E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/AI/AIC_NPC_Base_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.01.03-20.15.02:709][670]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/AI/AIC_NPC_Base_Auto6
+[2025.01.03-20.15.02:709][670]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/AIC_NPC_Base_Auto6DBC5141D44D483C57BE93497F30929A1.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/AI/AIC_NPC_Base_Auto6.uasset'
+[2025.01.03-20.15.02:710][670]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.01.03-20.17.44:198][975]LogViewport: Scene viewport resized to 1855x973, mode Windowed.
+[2025.01.03-20.18.16:523][828]BlueprintLog: New page: Compile AIC_NPC_Base
+[2025.01.03-20.18.16:561][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.01.03-20.18.16:651][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.03-20.18.16:692][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/AI/AIC_NPC_Base" FILE="E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/AI/AIC_NPC_Base.uasset" SILENT=true
+[2025.01.03-20.18.16:711][828]LogSavePackage: Moving output files for package: /Game/NPC/AI/AIC_NPC_Base
+[2025.01.03-20.18.16:712][828]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/AIC_NPC_Base497108DC427F61E5091725837B887C53.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/AI/AIC_NPC_Base.uasset'
+[2025.01.03-20.18.16:718][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.25 sec)
+[2025.01.03-20.18.16:720][828]AssetCheck: New page: Asset Save: AIC_NPC_Base
+[2025.01.03-20.18.16:720][828]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPC/AI/AIC_NPC_Base.AIC_NPC_Base
+[2025.01.03-20.18.18:642][997]LogContentBundle: [TestCubeMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.03-20.18.18:642][997]LogWorldPartition: Display: GenerateStreaming for 'TestCubeMap' started...
+[2025.01.03-20.18.18:644][997]LogWorldPartition: Display: GenerateStreaming for 'TestCubeMap' took 1 ms (total: 147 ms)
+[2025.01.03-20.18.18:647][997]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.01.03-20.18.18:647][997]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2025.01.03-20.18.18:664][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.01.03-20.18.18:677][997]LogPlayLevel: PlayLevel: Blueprint regeneration took 29 ms (1 blueprints)
+[2025.01.03-20.18.18:677][997]PIE: New page: PIE session: TestCubeMap (3 Jan 2025, 20:18:18)
+[2025.01.03-20.18.18:726][997]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_TestCubeMap
+[2025.01.03-20.18.18:730][997]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003397s)
+[2025.01.03-20.18.18:730][997]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/TestCubeMap.TestCubeMap to /Game/ThirdPerson/Maps/UEDPIE_0_TestCubeMap.TestCubeMap (0.003429s)
+[2025.01.03-20.18.18:742][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.01.03-20.18.18:744][997]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.03-20.18.18:744][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.03-20.18.18:744][997]LogAIModule: Creating AISystem for world TestCubeMap
+[2025.01.03-20.18.18:744][997]LogWorldPartition: ULevel::OnLevelLoaded(TestCubeMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.03-20.18.18:744][997]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.03-20.18.18:744][997]LogWorldPartition: UWorldPartition::Initialize : World = TestCubeMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.01.03-20.18.18:744][997]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.01.03-20.18.18:746][997]LogContentBundle: [TestCubeMap(Standalone)] Creating new contrainer.
+[2025.01.03-20.18.18:746][997]LogWorldPartition: Display: WorldPartition initialize took 943 us (total: 85 ms)
+[2025.01.03-20.18.18:746][997]LogPlayLevel: PIE: World Init took: (0.001979s)
+[2025.01.03-20.18.18:746][997]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.01.03-20.18.18:746][997]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.03-20.18.18:746][997]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.03-20.18.18:746][997]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.03-20.18.18:746][997]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.03-20.18.18:746][997]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.03-20.18.18:746][997]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.01.03-20.18.18:746][997]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.03-20.18.18:746][997]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.03-20.18.18:746][997]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.03-20.18.18:746][997]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.03-20.18.18:746][997]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.03-20.18.18:748][997]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.03-20.18.18:772][997]LogAudioMixer: Display: Using Audio Hardware Device ASUS VA24E (NVIDIA High Definition Audio)
+[2025.01.03-20.18.18:772][997]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.03-20.18.18:772][997]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.03-20.18.18:773][997]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.03-20.18.18:774][997]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.01.03-20.18.18:774][997]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.01.03-20.18.18:775][997]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.01.03-20.18.18:775][997]LogInit: FAudioDevice initialized with ID 47.
+[2025.01.03-20.18.18:775][997]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.01.03-20.18.18:775][997]LogAudio: Display: Audio Device (ID: 47) registered with world 'TestCubeMap'.
+[2025.01.03-20.18.18:775][997]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.01.03-20.18.18:777][997]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.01.03-20.18.18:780][997]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_TestCubeMap.TestCubeMap up for play (max tick rate 0) at 2025.01.03-20.18.18
+[2025.01.03-20.18.18:781][997]LogWorld: Bringing up level for play took: 0.003183
+[2025.01.03-20.18.18:783][997]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2025.01.03-20.18.18:784][997]PIE: Server logged in
+[2025.01.03-20.18.18:785][997]PIE: Play in editor total start time 0.143 seconds.
+[2025.01.03-20.18.18:788][997]LogBlueprintUserMessages: [AIC_NPC_Base_C_0] Sensed Sight
+[2025.01.03-20.18.38:870][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.03-20.18.38:870][389]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_TestCubeMap
+[2025.01.03-20.18.38:870][389]LogWorld: UWorld::CleanupWorld for TestCubeMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.03-20.18.38:870][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.03-20.18.38:870][389]LogContentBundle: [TestCubeMap(Standalone)] Deleting container.
+[2025.01.03-20.18.38:875][389]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.03-20.18.38:879][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.03-20.18.38:890][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.03-20.18.38:891][389]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.01.03-20.18.38:891][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.01.03-20.18.38:892][389]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.01.03-20.18.38:896][389]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.03-20.18.38:898][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.01.03-20.18.38:962][390]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2025.01.03-20.25.23:070][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.01.03-20.25.23:082][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/TestCubeMap/4/LR/AI59TF39WLOOXKAUVKM783_Auto7
+[2025.01.03-20.25.23:082][331]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/AI59TF39WLOOXKAUVKM783_Auto7ECC40B7B43FE04D15AFAFAA266448CFA.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/TestCubeMap/4/LR/AI59TF39WLOOXKAUVKM783_Auto7.uasset'
+[2025.01.03-20.25.23:083][331]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/TestCubeMap' took 0.026
+[2025.01.03-20.25.23:083][331]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2025.01.03-20.25.23:083][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/AI/BT_NPC_Base] ([1] browsable assets)...
+[2025.01.03-20.25.23:083][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/AI/BT_NPC_Base]
+[2025.01.03-20.25.23:083][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/AI/BT_NPC_Base" FILE="E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/AI/BT_NPC_Base_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.01.03-20.25.23:119][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/AI/BT_NPC_Base_Auto7
+[2025.01.03-20.25.23:120][331]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BT_NPC_Base_Auto7108C8F324C15582E48D3A28F3E8F3160.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/AI/BT_NPC_Base_Auto7.uasset'
+[2025.01.03-20.25.23:120][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/AI/BB_NPC_Base] ([1] browsable assets)...
+[2025.01.03-20.25.23:120][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/AI/BB_NPC_Base]
+[2025.01.03-20.25.23:120][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/AI/BB_NPC_Base" FILE="E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/AI/BB_NPC_Base_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.01.03-20.25.23:121][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/AI/BB_NPC_Base_Auto7
+[2025.01.03-20.25.23:121][331]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BB_NPC_Base_Auto73B5E1E3D42B9D88BDB2CA8922CAA1AB4.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/AI/BB_NPC_Base_Auto7.uasset'
+[2025.01.03-20.25.23:122][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/Tasks/BTT_SetStateAsPassive] ([2] browsable assets)...
+[2025.01.03-20.25.23:123][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/Tasks/BTT_SetStateAsPassive]
+[2025.01.03-20.25.23:125][331]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/Tasks/BTT_SetStateAsPassive_Auto7
+[2025.01.03-20.25.23:125][331]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BTT_SetStateAsPassive_Auto79EF42F8540229783AEB3AA9979B71F42.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/Tasks/BTT_SetStateAsPassive_Auto7.uasset'
+[2025.01.03-20.25.23:125][331]LogFileHelpers: Auto-saving content packages took 0.042
+[2025.01.03-20.36.03:017][251]LogDerivedDataCache: C:/Users/Sam Robertson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.032 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 345 files in 633 folders with total size 6 MiB.
+[2025.01.03-21.18.16:863][204]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.01.03-21.18.16:869][204]LogSlate: Window 'Find in Blueprints' being destroyed
+[2025.01.03-21.18.19:595][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.03-21.18.19:635][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/Tasks/BTT_SetStateAsPassive" FILE="E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/Tasks/BTT_SetStateAsPassive.uasset" SILENT=true
+[2025.01.03-21.18.19:637][527]LogSavePackage: Moving output files for package: /Game/NPC/Tasks/BTT_SetStateAsPassive
+[2025.01.03-21.18.19:638][527]LogSavePackage: Moving 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BTT_SetStateAsPassive72403B6D44CB6DAFE0080CB470F0FA1C.tmp' to 'E:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/Tasks/BTT_SetStateAsPassive.uasset'
+[2025.01.03-21.18.19:645][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 3.30 sec)
+[2025.01.03-21.18.19:646][527]AssetCheck: New page: Asset Save: BTT_SetStateAsPassive
+[2025.01.03-21.18.19:646][527]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPC/Tasks/BTT_SetStateAsPassive.BTT_SetStateAsPassive
