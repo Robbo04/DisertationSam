@@ -1383,3 +1383,304 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.09-15.39.14:211][  7]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/TestCubeMap.TestCubeMap:PersistentLevel.StaticMeshActor_UAID_74563CCD7A28BA4A02_1623720395
 [2025.02.09-15.39.14:211][  7]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/TestCubeMap.TestCubeMap:PersistentLevel.StaticMeshActor_UAID_74563CCD7A28BA4A02_1629736396
 [2025.02.09-15.39.14:211][  7]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/TestCubeMap.TestCubeMap:PersistentLevel.StaticMeshActor_UAID_74563CCD7A28BA4A02_1634779397
+[2025.02.09-15.40.09:666][841]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.09-15.40.09:706][841]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.09-15.40.09:711][841]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.09-15.40.09:728][843]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.09-15.40.13:666][275]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_OM
+[2025.02.09-15.40.13:670][275]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.09-15.40.14:980][422]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPC/OccupancyMaps/BP_OM.BP_OM
+[2025.02.09-15.40.14:981][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.09-15.40.14:981][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.09-15.40.14:986][422]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.02.09-15.40.15:565][422]LogViewport: Scene viewport resized to 1525x1227, mode Windowed.
+[2025.02.09-15.40.23:691][ 66]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.09-15.40.51:846][839]LogSlate: Window 'BP_OM' being destroyed
+[2025.02.09-15.40.59:361][694]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-15.40.59:361][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-15.41.55:441][865]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.09-15.41.55:464][865]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.09-15.41.55:473][866]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.09-15.42.01:843][609]LogContentBrowser: Attempting asset rename: NewFolder -> SMART
+[2025.02.09-15.42.01:846][609]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.09-15.42.05:741][  6]LogContentBrowser: Attempting asset rename: SMART -> SMART
+[2025.02.09-15.42.12:150][695]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.09-15.42.34:312][ 11]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2025.02.09-15.42.34:312][ 11]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2025.02.09-15.42.37:124][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.09-15.42.37:134][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-15.42.37:183][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/BP_PatrolRoute" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BP_PatrolRoute.uasset" SILENT=true
+[2025.02.09-15.42.37:184][289]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/NPC/SMART/AI/BP_PatrolRoute does not exist, will not scan.
+[2025.02.09-15.42.37:189][289]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/BP_PatrolRoute
+[2025.02.09-15.42.37:189][289]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BP_PatrolRoute813D323B464611DE6A7D6384087AEC6C.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BP_PatrolRoute.uasset'
+[2025.02.09-15.42.37:201][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 293 ms)
+[2025.02.09-15.42.37:214][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.09-15.42.37:219][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-15.42.37:249][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/BPI_EnemyAI" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BPI_EnemyAI.uasset" SILENT=true
+[2025.02.09-15.42.37:251][289]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/BPI_EnemyAI
+[2025.02.09-15.42.37:251][289]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BPI_EnemyAIF0336B6148EEA606DB560BAB244B8E1D.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BPI_EnemyAI.uasset'
+[2025.02.09-15.42.37:263][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 336 ms)
+[2025.02.09-15.42.37:289][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.09-15.42.37:294][289]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/NPC/SMART/AI/AIC_NPC_Base does not exist, will not scan.
+[2025.02.09-15.42.37:307][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-15.42.37:342][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/AIC_NPC_Base" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/AIC_NPC_Base.uasset" SILENT=true
+[2025.02.09-15.42.37:354][289]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/AIC_NPC_Base
+[2025.02.09-15.42.37:355][289]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/AIC_NPC_Base4E8B6F72407415732002AEAC05AF40C8.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/AIC_NPC_Base.uasset'
+[2025.02.09-15.42.37:367][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 396 ms)
+[2025.02.09-15.42.37:379][289]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.09-15.42.37:379][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPC/SMART/AI/BP_PatrolRoute.BP_PatrolRoute
+[2025.02.09-15.42.37:379][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPC/SMART/AI/BPI_EnemyAI.BPI_EnemyAI
+[2025.02.09-15.42.37:379][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPC/SMART/AI/AIC_NPC_Base.AIC_NPC_Base
+[2025.02.09-15.42.48:553][497]LogContentBrowser: Attempting asset rename: AIC_NPC_Base -> AIC_NPC_Smart
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.AIC_NPC_Smart_C' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C:ReceivePossess' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C:BndEvt__AIC_NPC_Base_AIPerception_K2Node_ComponentBoundEvent_0_ActorPerceptionUpdatedDelegate__DelegateSignature' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C:StartEnemyTimer' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C:BndEvt__AIC_NPC_Base_AIPerception_K2Node_ComponentBoundEvent_1_PerceptionUpdatedDelegate__DelegateSignature' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C:UserConstructionScript' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C:CanSenseActor' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C:HandleSensedSound' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.SKEL_AIC_NPC_Smart_C:SetStateAsInvestigating' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.AIC_NPC_Smart_C:ReceivePossess' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.AIC_NPC_Smart_C:CanSenseActor' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.AIC_NPC_Smart_C:HandleSensedSound' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogMetaData: Removing '/Game/NPC/SMART/AI/AIC_NPC_Smart.AIC_NPC_Smart_C:SetStateAsInvestigating' ref from Metadata '/Game/NPC/SMART/AI/AIC_NPC_Base.PackageMetaData'
+[2025.02.09-15.42.48:574][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-15.42.48:633][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/AIC_NPC_Smart" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/AIC_NPC_Smart.uasset" SILENT=true
+[2025.02.09-15.42.48:652][497]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/AIC_NPC_Smart
+[2025.02.09-15.42.48:652][497]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/AIC_NPC_Smart4B2C672E4F002669496C8990F2475286.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/AIC_NPC_Smart.uasset'
+[2025.02.09-15.42.48:663][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 484 ms)
+[2025.02.09-15.42.48:681][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.09-15.42.48:693][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.09-15.42.48:702][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.09-15.42.48:704][497]AssetCheck: New page: Asset Save: AIC_NPC_Smart
+[2025.02.09-15.42.48:704][497]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPC/SMART/AI/AIC_NPC_Smart.AIC_NPC_Smart
+[2025.02.09-15.42.55:679][243]LogContentBrowser: Attempting asset rename: BB_NPC_Base -> BB_NPC_Smart
+[2025.02.09-15.42.55:698][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-15.42.55:748][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/BB_NPC_Smart" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BB_NPC_Smart.uasset" SILENT=true
+[2025.02.09-15.42.55:750][243]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/BB_NPC_Smart
+[2025.02.09-15.42.55:750][243]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BB_NPC_Smart02B345A34388C249A0DA33A7F1D8FFB8.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BB_NPC_Smart.uasset'
+[2025.02.09-15.42.55:759][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 544 ms)
+[2025.02.09-15.42.55:773][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.09-15.42.55:784][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.02.09-15.42.55:792][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.09-15.42.55:793][243]AssetCheck: New page: Asset Save: BB_NPC_Smart
+[2025.02.09-15.42.55:793][243]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/NPC/SMART/AI/BB_NPC_Smart.BB_NPC_Smart
+[2025.02.09-15.43.04:921][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.09-15.43.06:127][198]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.09-15.43.06:146][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.09-15.43.06:156][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.02.09-15.43.06:165][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.02.09-15.43.10:603][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPC/SMART/AI/BPI_EnemyAI.BPI_EnemyAI
+[2025.02.09-15.43.10:603][696]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.09-15.43.10:603][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.09-15.43.12:654][909]BlueprintLog: New page: Compile BPI_EnemyAI
+[2025.02.09-15.43.12:666][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.02.09-15.43.12:670][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-15.43.12:729][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/BPI_EnemyAI" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BPI_EnemyAI.uasset" SILENT=true
+[2025.02.09-15.43.12:731][909]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/BPI_EnemyAI
+[2025.02.09-15.43.12:733][909]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BPI_EnemyAIAFB2656D4C281BD8B92F52BF4AB3EE9D.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BPI_EnemyAI.uasset'
+[2025.02.09-15.43.12:740][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 613 ms)
+[2025.02.09-15.43.12:741][909]AssetCheck: New page: Asset Save: BPI_EnemyAI
+[2025.02.09-15.43.12:741][909]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPC/SMART/AI/BPI_EnemyAI.BPI_EnemyAI
+[2025.02.09-15.43.14:203][ 68]LogSlate: Window 'BPI_EnemyAI' being destroyed
+[2025.02.09-15.43.14:214][ 68]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-15.43.14:214][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-15.43.15:543][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.09-15.43.16:777][195]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.09-15.43.16:802][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.09-15.43.16:812][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.09-15.43.16:821][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.09-15.43.21:094][683]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/NPC/SMART/AI/BT_NPC_Base.BT_NPC_Base
+[2025.02.09-15.43.22:726][831]LogSlate: Window 'BT_NPC_Base' being destroyed
+[2025.02.09-15.43.30:212][658]LogContentBrowser: Attempting asset rename: BT_NPC_Base -> BT_NPC_Smart
+[2025.02.09-15.43.30:246][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-15.43.30:313][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/BT_NPC_Smart" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BT_NPC_Smart.uasset" SILENT=true
+[2025.02.09-15.43.30:318][658]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/BT_NPC_Smart
+[2025.02.09-15.43.30:318][658]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BT_NPC_SmartF8206FA94116AA7F9D77DFB0194E21EC.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BT_NPC_Smart.uasset'
+[2025.02.09-15.43.30:327][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 695 ms)
+[2025.02.09-15.43.30:343][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.09-15.43.30:355][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.09-15.43.30:365][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.09-15.43.30:366][658]AssetCheck: New page: Asset Save: BT_NPC_Smart
+[2025.02.09-15.43.30:366][658]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/NPC/SMART/AI/BT_NPC_Smart.BT_NPC_Smart
+[2025.02.09-15.43.31:755][809]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/NPC/SMART/AI/BT_NPC_Smart.BT_NPC_Smart
+[2025.02.09-15.43.37:900][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-15.43.37:951][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/BT_NPC_Smart" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BT_NPC_Smart.uasset" SILENT=true
+[2025.02.09-15.43.37:955][400]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/BT_NPC_Smart
+[2025.02.09-15.43.37:957][400]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BT_NPC_Smart8973C9494D402219B8455293AF55BBE6.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BT_NPC_Smart.uasset'
+[2025.02.09-15.43.37:965][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 760 ms)
+[2025.02.09-15.43.37:965][400]AssetCheck: New page: Asset Save: BT_NPC_Smart
+[2025.02.09-15.43.37:965][400]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/NPC/SMART/AI/BT_NPC_Smart.BT_NPC_Smart
+[2025.02.09-15.43.39:441][544]LogSlate: Window 'BT_NPC_Smart' being destroyed
+[2025.02.09-15.43.43:592][994]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/NPC/AI/BT_NPC_Base.BT_NPC_Base
+[2025.02.09-15.44.19:654][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 681.332703
+[2025.02.09-15.44.19:821][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.09-15.44.19:821][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 681.491577, Update Interval: 328.724640
+[2025.02.09-15.44.38:134][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.09-15.44.38:143][382]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/TestCubeMap/0/MM/C3BW080U450OQSVCQNONIF_Auto1
+[2025.02.09-15.44.38:143][382]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/C3BW080U450OQSVCQNONIF_Auto18C5950AE44DC43C19EEA6EBAC4C92767.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/TestCubeMap/0/MM/C3BW080U450OQSVCQNONIF_Auto1.uasset'
+[2025.02.09-15.44.38:146][382]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/TestCubeMap' took 0.023
+[2025.02.09-15.44.38:146][382]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2025.02.09-15.44.38:147][382]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/OccupancyMaps/BP_OM] ([2] browsable assets)...
+[2025.02.09-15.44.38:147][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/OccupancyMaps/BP_OM]
+[2025.02.09-15.44.38:147][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/OccupancyMaps/BP_OM" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/OccupancyMaps/BP_OM_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.02.09-15.44.38:149][382]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/OccupancyMaps/BP_OM_Auto1
+[2025.02.09-15.44.38:149][382]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BP_OM_Auto1A2D76A4C47677DC73A83FBAD7412C6E6.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/OccupancyMaps/BP_OM_Auto1.uasset'
+[2025.02.09-15.44.38:152][382]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/SMART/AI/BT_NPC_Smart] ([1] browsable assets)...
+[2025.02.09-15.44.38:152][382]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/SMART/AI/BT_NPC_Smart]
+[2025.02.09-15.44.38:157][382]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/SMART/AI/BT_NPC_Smart_Auto1
+[2025.02.09-15.44.38:157][382]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BT_NPC_Smart_Auto14DA672B8466E3779F6AA75B82A25CEA3.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/SMART/AI/BT_NPC_Smart_Auto1.uasset'
+[2025.02.09-15.44.38:158][382]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.02.09-15.45.35:405][249]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2025.02.09-15.45.35:405][249]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2025.02.09-15.46.29:523][743]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2025.02.09-15.49.37:371][264]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.49.37:376][264]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3300
+[2025.02.09-15.49.37:406][268]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.49.37:448][273]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.49.37:487][278]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.49.37:548][285]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.49.37:577][288]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.49.37:611][292]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.49.37:668][299]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.49.54:394][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1016.069702
+[2025.02.09-15.49.54:511][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.09-15.49.54:511][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1016.178223, Update Interval: 350.342712
+[2025.02.09-15.55.56:467][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1378.144897
+[2025.02.09-15.55.56:592][770]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.09-15.55.56:592][770]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1378.261230, Update Interval: 320.513916
+[2025.02.09-15.59.19:889][156]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.59.19:937][158]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.59.19:976][162]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.59.20:008][163]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.59.20:080][171]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.59.20:133][178]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=System Default, InstanceID=1
+[2025.02.09-15.59.20:189][184]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=27GL850 (NVIDIA High Definition Audio), InstanceID=1
+[2025.02.09-15.59.20:389][208]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ae2752c9-76ce-4675-8928-3d4e457c35cd}, Name=27GL850 (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=185.46
+[2025.02.09-15.59.20:389][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.02.09-15.59.20:391][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.02.09-15.59.56:385][452]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 17292976975672819692
+[2025.02.09-15.59.56:385][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-15.59.56:392][453]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.09-15.59.56:392][453]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.02.09-15.59.56:393][453]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.02.09-15.59.56:397][453]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.09-16.00.41:314][753]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(754)].
+[2025.02.09-16.00.41:339][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.02.09-16.00.41:343][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/TestCubeMap' took 0.015
+[2025.02.09-16.00.41:345][753]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NPC/SMART/AI/BT_NPC_Smart] ([1] browsable assets)...
+[2025.02.09-16.00.41:345][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/NPC/SMART/AI/BT_NPC_Smart]
+[2025.02.09-16.00.41:352][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/NPC/SMART/AI/BT_NPC_Smart_Auto2
+[2025.02.09-16.00.41:352][753]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BT_NPC_Smart_Auto2DCE974024C8CBEA16D2B76ACBC1FC7C7.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/Autosaves/Game/NPC/SMART/AI/BT_NPC_Smart_Auto2.uasset'
+[2025.02.09-16.00.41:354][753]LogFileHelpers: Auto-saving content packages took 0.012
+[2025.02.09-16.01.35:067][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1716.761353
+[2025.02.09-16.01.35:201][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.09-16.01.35:201][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1716.886353, Update Interval: 356.887115
+[2025.02.09-16.04.03:312][662]LogViewport: Scene viewport resized to 1309x813, mode Windowed.
+[2025.02.09-16.07.01:937][981]LogStaticMesh: Warning: CubeGridToolOutput_D79F5007 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.09-16.07.01:937][981]LogStaticMesh: Warning: CubeGridToolOutput_D79F5007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.09-16.07.01:951][981]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D79F5007...
+[2025.02.09-16.07.01:968][981]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ThirdPerson/Maps/_GENERATED/SamRobertson/CubeGridToolOutput_D79F5007) ...
+[2025.02.09-16.07.01:971][981]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPerson/Maps/_GENERATED/SamRobertson/CubeGridToolOutput_D79F5007.CubeGridToolOutput_D79F5007
+[2025.02.09-16.07.01:974][981]LogStaticMesh: Warning: CubeGridToolOutput_D79F5007 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.09-16.07.01:974][981]LogStaticMesh: Warning: CubeGridToolOutput_D79F5007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.09-16.07.10:801][897]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.09-16.07.10:812][897]LogContentBundle: [TestCubeMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.02.09-16.07.10:812][897]LogWorldPartition: Display: GenerateStreaming for 'TestCubeMap' started...
+[2025.02.09-16.07.10:816][897]LogWorldPartition: Display: GenerateStreaming for 'TestCubeMap' took 3 ms
+[2025.02.09-16.07.10:839][897]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_D79F5007...
+[2025.02.09-16.07.10:856][897]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ThirdPerson/Maps/_GENERATED/SamRobertson/CubeGridToolOutput_D79F5007) ...
+[2025.02.09-16.07.10:857][897]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPerson/Maps/_GENERATED/SamRobertson/CubeGridToolOutput_D79F5007.CubeGridToolOutput_D79F5007
+[2025.02.09-16.07.10:860][897]LogStaticMesh: Warning: CubeGridToolOutput_D79F5007 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.02.09-16.07.10:860][897]LogStaticMesh: Warning: CubeGridToolOutput_D79F5007 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.02.09-16.07.10:862][897]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.07.10:862][897]PIE: New page: PIE session: TestCubeMap (9 Feb 2025, 16:07:10)
+[2025.02.09-16.07.10:889][897]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.02.09-16.07.10:889][897]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.02.09-16.07.10:889][897]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_TestCubeMap
+[2025.02.09-16.07.10:896][897]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006628s)
+[2025.02.09-16.07.10:896][897]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/TestCubeMap.TestCubeMap to /Game/ThirdPerson/Maps/UEDPIE_0_TestCubeMap.TestCubeMap (0.006671s)
+[2025.02.09-16.07.10:909][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.02.09-16.07.10:912][897]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.09-16.07.10:912][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.09-16.07.10:913][897]LogAIModule: Creating AISystem for world TestCubeMap
+[2025.02.09-16.07.10:913][897]LogWorldPartition: ULevel::OnLevelLoaded(TestCubeMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.02.09-16.07.10:913][897]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.02.09-16.07.10:913][897]LogWorldPartition: UWorldPartition::Initialize : World = TestCubeMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.02.09-16.07.10:913][897]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.02.09-16.07.10:915][897]LogContentBundle: [TestCubeMap(Standalone)] Creating new contrainer.
+[2025.02.09-16.07.10:915][897]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 61 ms)
+[2025.02.09-16.07.10:915][897]LogPlayLevel: PIE: World Init took: (0.003171s)
+[2025.02.09-16.07.10:915][897]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.02.09-16.07.10:915][897]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.07.10:916][897]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.07.10:916][897]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.07.10:916][897]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.07.10:916][897]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.09-16.07.10:916][897]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.07.10:916][897]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.09-16.07.10:916][897]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.07.10:916][897]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.07.10:916][897]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.07.10:916][897]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.07.10:918][897]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.09-16.07.10:951][897]LogAudioMixer: Display: Using Audio Hardware Device 27GL850 (NVIDIA High Definition Audio)
+[2025.02.09-16.07.10:951][897]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.07.10:951][897]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.07.10:952][897]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.07.10:952][897]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.02.09-16.07.10:952][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.02.09-16.07.10:954][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.02.09-16.07.10:954][897]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.02.09-16.07.10:954][897]LogInit: FAudioDevice initialized with ID 2.
+[2025.02.09-16.07.10:954][897]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestCubeMap'.
+[2025.02.09-16.07.10:954][897]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.09-16.07.10:958][897]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.02.09-16.07.10:966][897]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_TestCubeMap.TestCubeMap up for play (max tick rate 0) at 2025.02.09-16.07.10
+[2025.02.09-16.07.10:969][897]LogWorld: Bringing up level for play took: 0.011214
+[2025.02.09-16.07.10:972][897]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.02.09-16.07.10:979][897]PIE: Server logged in
+[2025.02.09-16.07.10:980][897]PIE: Play in editor total start time 0.167 seconds.
+[2025.02.09-16.07.10:985][897]LogBlueprintUserMessages: [AIC_NPC_Base_C_2] Sensed Sight
+[2025.02.09-16.07.10:994][897]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.02.09-16.07.12:511][ 38]LogBlueprintUserMessages: [BP_Collectable_C_UAID_74563CCD7A287A4A02_1252946126] 1
+[2025.02.09-16.07.15:361][380]LogBlueprintUserMessages: [BP_Collectable_C_UAID_74563CCD7A287C4A02_2126619463] 2
+[2025.02.09-16.07.19:404][865]LogBlueprintUserMessages: [AIC_NPC_Base_C_2] Sensed Sight
+[2025.02.09-16.07.20:090][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.07.20:090][942]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_TestCubeMap
+[2025.02.09-16.07.20:090][942]LogWorld: UWorld::CleanupWorld for TestCubeMap, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.07.20:091][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.07.20:091][942]LogContentBundle: [TestCubeMap(Standalone)] Deleting container.
+[2025.02.09-16.07.20:094][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.07.20:097][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.07.20:108][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.07.20:108][942]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.02.09-16.07.20:108][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.09-16.07.20:110][942]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.02.09-16.07.20:118][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.09-16.07.20:176][943]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.02.09-16.07.29:697][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.02.09-16.07.30:944][169]LogSlate: Window 'Save Content' being destroyed
+[2025.02.09-16.07.30:951][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.09-16.07.30:994][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/OccupancyMaps/BP_OM" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/OccupancyMaps/BP_OM.uasset" SILENT=true
+[2025.02.09-16.07.30:998][169]LogSavePackage: Moving output files for package: /Game/NPC/OccupancyMaps/BP_OM
+[2025.02.09-16.07.30:998][169]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BP_OM073D9B4F486CCED8D688C6B5BDF3E1B1.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/OccupancyMaps/BP_OM.uasset'
+[2025.02.09-16.07.31:000][169]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/NPC/OccupancyMaps/BP_OM.
+[2025.02.09-16.07.31:002][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NPC/SMART/AI/BT_NPC_Smart" FILE="D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BT_NPC_Smart.uasset" SILENT=true
+[2025.02.09-16.07.31:007][169]LogSavePackage: Moving output files for package: /Game/NPC/SMART/AI/BT_NPC_Smart
+[2025.02.09-16.07.31:008][169]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/BT_NPC_Smart578EE5074537BDF16EB0D2AC4B7E085F.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/NPC/SMART/AI/BT_NPC_Smart.uasset'
+[2025.02.09-16.07.31:011][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/TestCubeMap/0/MM/C3BW080U450OQSVCQNONIF
+[2025.02.09-16.07.31:012][169]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/C3BW080U450OQSVCQNONIF8ED542F44D0C8AE39F57FFB04D9CE99E.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/__ExternalActors__/ThirdPerson/Maps/TestCubeMap/0/MM/C3BW080U450OQSVCQNONIF.uasset'
+[2025.02.09-16.07.31:015][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/TestCubeMap/9/K5/QHIK7BAGZRM402GNA5NEQM
+[2025.02.09-16.07.31:016][169]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/QHIK7BAGZRM402GNA5NEQM521D3E304469A038E21698A1A2335737.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/__ExternalActors__/ThirdPerson/Maps/TestCubeMap/9/K5/QHIK7BAGZRM402GNA5NEQM.uasset'
+[2025.02.09-16.07.31:121][169]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/_GENERATED/SamRobertson/CubeGridToolOutput_D79F5007
+[2025.02.09-16.07.31:122][169]LogSavePackage: Moving 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Saved/CubeGridToolOutput_D79F5007747DFADD42312D9B5CF14DA40D5E4876.tmp' to 'D:/Work/Uni/Year 3/DisertationSam/RealStealthAI/Content/ThirdPerson/Maps/_GENERATED/SamRobertson/CubeGridToolOutput_D79F5007.uasset'
+[2025.02.09-16.07.31:134][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 943 ms)
+[2025.02.09-16.07.31:137][169]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.09-16.07.31:137][169]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NPC/OccupancyMaps/BP_OM.BP_OM
+[2025.02.09-16.07.31:137][169]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/NPC/SMART/AI/BT_NPC_Smart.BT_NPC_Smart
+[2025.02.09-16.07.31:137][169]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/TestCubeMap.TestCubeMap:PersistentLevel.StaticMeshActor_UAID_74563CCD7A28BA4A02_1324667376
+[2025.02.09-16.07.31:137][169]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/TestCubeMap.TestCubeMap:PersistentLevel.StaticMeshActor_UAID_BCC7469D4A06E03D02_1178194335
+[2025.02.09-16.07.31:137][169]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/ThirdPerson/Maps/_GENERATED/SamRobertson/CubeGridToolOutput_D79F5007.CubeGridToolOutput_D79F5007
